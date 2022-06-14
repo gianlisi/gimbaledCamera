@@ -3,7 +3,7 @@
 Gianluca Meneghello (mgl@mit.edu)
 
 This code makes a plan for a gimbaled camera mounted on a vessel to take photos
-of all nearby vessels with the minimum number of picture possible. The
+of all nearby vessels with the minimum number of pictures possible. The
 geographic location of all nearby vessels is known. The output is a vector of
 camera angles that guarantees a photo of every vessel.
 
