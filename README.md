@@ -32,7 +32,7 @@ The main program can also be run by calling
 ./main < data.dat
 
 where data.dat is a text file containing, on each line, the name, latitude and
-longitude coordinates of each vessel. The first vessel is the drone taking
+longitude coordinates of each vessel. The first vessel is the one taking
 pictures. The following lines are taken from test1.dat
 
      Rhinheart 37.760132 -122.3264815
